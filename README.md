@@ -1,4 +1,6 @@
 # docker-varnishd
+[![Docker Stars](https://img.shields.io/docker/stars/limit0/varnishd.svg)](https://hub.docker.com/r/limit0/varnishd/) [![Docker Pulls](https://img.shields.io/docker/pulls/limit0/varnishd.svg)](https://hub.docker.com/r/limit0/varnishd/) [![Docker Automated build](https://img.shields.io/docker/automated/limit0/varnishd.svg)](https://hub.docker.com/r/limit0/varnishd) [![Docker Build Status](https://img.shields.io/docker/build/limit0/varnishd.svg)](https://hub.docker.com/r/limit0/varnishd)
+
 A Docker container for running Varnish Reverse Proxy
 
 This container can be used to run a [varnishd](https://varnish-cache.org/) reverse proxy instance. The container can be used as-is, or extended to customize configuration, versions, etc.
